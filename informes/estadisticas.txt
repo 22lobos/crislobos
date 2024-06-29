@@ -1,0 +1,4 @@
+Estadísticas calculadas:
+Número total de clientes: 10
+Suma de todos los saldos: 68948.43000000001
+Saldo promedio de los clientes: 6894.843000000001
